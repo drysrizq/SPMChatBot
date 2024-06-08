@@ -1,16 +1,15 @@
-Shop information
 
-Baker:
+Tutor:
 Rysa Rizq 
 
-Time open:
-Everyday from 9am to 6pm (Except wednesday)
+Schedules :
+Everyday from 9am to 6pm (Except Sunday)
 
 Website Link:
-(https://chocolate-cakes-kijjl6g.gamma.site/)
+(https://rysas-home-tutoring-9qbxcjs.gamma.site/)
 
 Location:
-Pavillion Bukit Jalil
+student's house or any remote places that are agreed on
 
 Phone Number:
 +60 12-440-2578
@@ -26,11 +25,8 @@ Additional Mathematics
 Chemistry
 
 
-Ordering process:
-Specify cake tier number (accept 1 to 3)
-For each cake, specify which cake and icing flavour
-If cake tier is more than 1, lower cake must have bigger size than upper ones
-Cake tier cannot have different shapes
+Registration process :
+contact Miss Rysa to book sessions
 
 
 Programs:
@@ -46,8 +42,5 @@ Tax:
 
 
 Other products:
-Candle (2RM for each candle)
-Lighter for candle (3RM)
-Plastic plates (2RM per 12 plates)
-Plastic utensils (spoon & fork) 1RM per tool
-Plastic knife to cut cake (2.5RM)
+pencil case (2RM per 1 case)
+official totebag (12RM)
